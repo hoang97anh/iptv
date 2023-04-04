@@ -1,0 +1,88 @@
+#EXTM3U url-tvg="http://trada.info/epg.xml" tvg-shift=0 m3uautoload=1
+
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/WpQtg0z.png",VTV1 HD
+https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/R7q7HZj.png",VTV2 HD
+https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/o6SxT3q.png",VTV3 HD
+http://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/4yhPtDf.png",VTV4 HD
+https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/VBErOd8.png",VTV5 HD
+http://172.104.57.43:8811/stream/channelid/105724547?profile=pass|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/GtnRg0D.png",VTV6 HD
+http://103.75.187.237:9981/stream/channelid/264239339?|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/EQaqb0h.png",VTV7 HD
+https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/9XsZ2fd.png",VTV8 HD
+https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/UBN3r3k.png",VTV9 HD
+https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+
+
+#EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://i.ibb.co/J7M2fsv/HTV2-BEARTV.png",HTV2 HD
+https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://i.ibb.co/mh1GLfY/HTV7-BEARTV.png",HTV7 HD
+https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://i.ibb.co/4VNDzHh/HTV9-BEARTV.png",HTV9 HD
+https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+
+
+#EXTINF:-1 tvg-id="cartoonhd" group-title="Cartoon" tvg-logo="https://i.ibb.co/THhk8Wf/Cartoon-Network-BEARTV.png",Cartoon Network
+https://livecdn.fptplay.net/hda3/cartoonnetworkhd_2000.stream/chunklist.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="animaxhd" group-title="Cartoon" tvg-logo="https://i.ibb.co/6BW91H3/Animax-BEARTV.png",Animax
+https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+
+
+#EXTINF:-1 tvg-id="france24eng" group-title="News" tvg-logo="https://i.imgur.com/zdze6Iq.png",FRANCE 24 English
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/01.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="cnn" group-title="News" tvg-logo="https://i.imgur.com/8faQZGn.png",CNN International
+https://vips-livecdn.fptplay.net/hda3/cnn_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="dw" group-title="News" tvg-logo="https://imgur.com/tIjv364.png",Deutsche Welle English
+http://livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="abcaustralia" group-title="News" tvg-logo="https://i.ibb.co/gF4fGYx/ABC-Australia-BEARTV.png", ABC Australia SD
+https://livecdn.fptplay.net/sdb/australiaplus_hls.smil/chunklist_b2500000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://i.imgur.com/9Eb0k7T.png",CNBC SD
+https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="nhkworldhd" group-title="News" tvg-logo="https://i.imgur.com/GQkPNzT.png",NHK WORLD JAPAN
+http://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+
+
+#EXTINF:-1 tvg-id="hgtv" group-title="Quốc Tế" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/1600822045966/d9ac9510871a.png", HGTV
+http://hoaiptv.duckdns.org:8002/live/tv360.php?id=99|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="blueantent" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/Y8pQz8Q/Blue-ant-entertainment-BEARTV.png",Blue Ant Entertainment
+https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="blueantext" group-title="Quốc Tế" tvg-id="blueantext" tvg-logo="https://i.ibb.co/c6MN6Cc/Blue-ant-extreme-BEARTV.png",Blue Ant Extreme
+https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/7WC8NaN.png",AXN
+http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://imgur.com/sQw2S9Y.png",HBO
+https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/S7BtNs4/WB-BEARTV.png",WBTV
+http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png",Cinemax
+https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="cinemaworld" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/9V7M86m/CMW-BEARTV.png",Cinema World
+https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/VqRXFMV/asian-food.png",Asian Food Channel
+http://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="tlchd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/iXwGMoe.png",TLC
+https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.postimg.cc/V6Rww0Nj/500px-Trace-Urban-logo-2010-svg.png",Trace Urban
+
+#EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/grTy13N/Animal-Planet-BEARTV.png",Animal Planet
+https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="outdoorhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/hDhK578/Outdoor-Channel-BEARTV.png",Outdoor Channel
+https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/N1f6dvA.png",BBC Earth
+https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="bbclifestyle" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/IcyT1Bs.png",BBC Lifestyle SD
+http://vips-livecdn.fptplay.net/hda3/bbclifestyle_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="ngchd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic HD
+https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="ngwhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/3jBRVrj.png",Nat Geo WILD HD
+http://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/8GG7Ny9.png",Discovery Channel
+https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Discovery-asia.png/revision/latest?cb=20180716153220",Discovery Asia
+http://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6

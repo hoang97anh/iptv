@@ -1,21 +1,19 @@
 #EXTM3U url-tvg="http://trada.info/epg.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/WpQtg0z.png",VTV1 HD
-https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/R7q7HZj.png",VTV2 HD
-https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+http://live-ali4.tv360.vn/manifest/vtv2/playlist_1080p.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/o6SxT3q.png",VTV3 HD
-http://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/4yhPtDf.png",VTV4 HD
-https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/VBErOd8.png",VTV5 HD
-http://172.104.57.43:8811/stream/channelid/105724547?profile=pass|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/GtnRg0D.png",VTV6 HD
-http://103.75.187.237:9981/stream/channelid/264239339?|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+http://live-ali4.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/EQaqb0h.png",VTV7 HD
-https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/9XsZ2fd.png",VTV8 HD
-https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/UBN3r3k.png",VTV9 HD
 https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
 
@@ -57,7 +55,7 @@ https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8|Us
 #EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/7WC8NaN.png",AXN
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
 #EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://imgur.com/sQw2S9Y.png",HBO
-https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+http://live.vthanhtivi.pw/hbo|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
 #EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/S7BtNs4/WB-BEARTV.png",WBTV
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png",Cinemax

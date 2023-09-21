@@ -5,7 +5,7 @@ http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/R7q7HZj.png",VTV2 HD
 http://live-ali4.tv360.vn/manifest/vtv2/playlist_1080p.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/o6SxT3q.png",VTV3 HD
-http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+http://stream.cvmtv.site:1000/VTV3HD?token=live|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/4yhPtDf.png",VTV4 HD
 http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/VBErOd8.png",VTV5 HD
@@ -48,14 +48,14 @@ http://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8|User-
 
 #EXTINF:-1 tvg-id="hgtv" group-title="Quốc Tế" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/1600822045966/d9ac9510871a.png", HGTV
 http://hoaiptv.duckdns.org:8002/live/tv360.php?id=99|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
-#EXTINF:-1 tvg-id="blueantent" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/Y8pQz8Q/Blue-ant-entertainment-BEARTV.png",Blue Ant Entertainment
-https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
-#EXTINF:-1 tvg-id="blueantext" group-title="Quốc Tế" tvg-id="blueantext" tvg-logo="https://i.ibb.co/c6MN6Cc/Blue-ant-extreme-BEARTV.png",Blue Ant Extreme
-https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="blueantent" group-title="Quốc Tế" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/ROCK-Entertainment.png",Rock Entertainment
+http://210.210.155.35:80/dr9445/h/h16/01.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+#EXTINF:-1 tvg-id="blueantext" group-title="Quốc Tế" tvg-id="blueantext" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/rock-action.png",Rock Action
+http://210.210.155.35:80/dr9445/h/h15/01.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
 #EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/7WC8NaN.png",AXN
-http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+http://vthanhtivi.pw:5000/axn/index.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
 #EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://imgur.com/sQw2S9Y.png",HBO
-http://live.vthanhtivi.pw/hbo|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+http://vthanhtivi.pw:5000/hbo/index.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
 #EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/S7BtNs4/WB-BEARTV.png",WBTV
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png",Cinemax

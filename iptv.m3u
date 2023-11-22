@@ -5,7 +5,7 @@ http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/R7q7HZj.png",VTV2 HD
 http://live-ali4.tv360.vn/manifest/vtv2/playlist_1080p.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/o6SxT3q.png",VTV3 HD
-http://stream.cvmtv.site:1000/VTV3HD?token=live|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/4yhPtDf.png",VTV4 HD
 http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/VBErOd8.png",VTV5 HD

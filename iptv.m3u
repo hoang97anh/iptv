@@ -73,7 +73,7 @@ https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8|
 #EXTINF:-1 tvg-id="outdoorhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/hDhK578/Outdoor-Channel-BEARTV.png",Outdoor Channel
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
 #EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/N1f6dvA.png",BBC Earth
-https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
+http://vthanhtivi.pw:5000/bbcearth/tracks-v1a1/playlist.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/IcyT1Bs.png",BBC Lifestyle SD
 http://vips-livecdn.fptplay.net/hda3/bbclifestyle_vhls.smil/chunklist_b5000000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; samsung SM-N935F Build/PPR1.180610.011) IPTV/5.2.6
 #EXTINF:-1 tvg-id="ngchd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic HD
